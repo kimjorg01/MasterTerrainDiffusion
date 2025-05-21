@@ -1,0 +1,11 @@
+{
+    "Rivers": {
+        "mean_height_avg": 0.3470005393028259,
+        "mean_height_std_across_images": 0.07769794762134552,
+        "std_dev_avg": 0.15507526695728302,
+        "std_dev_std_across_images": 0.023370085284113884,
+        "avg_grad_mag_avg": 0.012650932185351849,
+        "avg_grad_mag_std_across_images": 0.0015318101504817605,
+        "num_images_processed": 50
+    }
+}

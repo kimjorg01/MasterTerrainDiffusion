@@ -1,0 +1,11 @@
+{
+    "Ridges": {
+        "mean_height_avg": 0.4413868188858032,
+        "mean_height_std_across_images": 0.07449347525835037,
+        "std_dev_avg": 0.16654756665229797,
+        "std_dev_std_across_images": 0.013612019829452038,
+        "avg_grad_mag_avg": 0.014622309245169163,
+        "avg_grad_mag_std_across_images": 0.0012320991372689605,
+        "num_images_processed": 50
+    }
+}

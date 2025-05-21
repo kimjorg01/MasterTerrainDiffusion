@@ -1,0 +1,11 @@
+{
+    "Random_Set_1": {
+        "mean_height_avg": 0.49816426634788513,
+        "mean_height_std_across_images": 0.001308852806687355,
+        "std_dev_avg": 0.2886599600315094,
+        "std_dev_std_across_images": 0.0005173461977392435,
+        "avg_grad_mag_avg": 0.26283830404281616,
+        "avg_grad_mag_std_across_images": 0.0006705381674692035,
+        "num_images_processed": 50
+    }
+}

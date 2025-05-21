@@ -1,0 +1,11 @@
+{
+    "Flat": {
+        "mean_height_avg": 0.429686039686203,
+        "mean_height_std_across_images": 0.07148613780736923,
+        "std_dev_avg": 0.1672278642654419,
+        "std_dev_std_across_images": 0.017162729054689407,
+        "avg_grad_mag_avg": 0.010635372251272202,
+        "avg_grad_mag_std_across_images": 0.0010206957813352346,
+        "num_images_processed": 50
+    }
+}
